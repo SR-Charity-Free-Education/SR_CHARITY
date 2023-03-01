@@ -30,7 +30,7 @@ body::before {
 
 @media (max-width: 600px) {
   body::before {
-	background: #040404 url("../img/me.png") top right no-repeat;
+	background: #040404 url("../img/me1.png") top right no-repeat;
     background-attachment: fixed;
   }
 }
