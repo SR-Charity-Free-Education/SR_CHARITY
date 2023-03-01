@@ -28,8 +28,9 @@ body::before {
   z-index: -1;
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 600px) {
   body::before {
+	background: #040404 url("../img/me.jpg") top right no-repeat;
     background-attachment: fixed;
   }
 }
